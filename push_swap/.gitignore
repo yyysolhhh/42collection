@@ -1,0 +1,16 @@
+.DS_Store
+*.o
+*.swp
+*.swo
+*.out
+.vscode
+*.a
+*.dSYM
+temp/
+try
+obj/
+checker_Mac
+checker_Linux
+push_swap
+checker
+push_swap_visualizer/
